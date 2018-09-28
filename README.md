@@ -1,5 +1,5 @@
 # Tuts+ Tutorial: [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-## Instructor: Nicole Merlin
+**Instructor: Nicole Merlin**
 
 The best way to understand any process is to carry it out yourself, from the ground up. In this tutorial, we’re going to do just that with email design, by building an HTML email template from scratch.
 
