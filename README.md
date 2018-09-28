@@ -9,3 +9,5 @@ Source files for the Tuts+ tutorial: [Build an HTML Email Template From Scratch
 ](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
 
 [View the demo](http://tutsplus.github.io/build-an-html-email-template-from-scratch/)
+
+![final result for email template](https://raw.githubusercontent.com/tutsplus/build-an-html-email-template-from-scratch/master/email-buil-final.png)
